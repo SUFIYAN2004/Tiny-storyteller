@@ -1,0 +1,10 @@
+{
+  "vocab_size": 2700,
+  "dim": 576,
+  "n_layers": 9,
+  "n_q_heads": 9,
+  "n_kv_heads": 3,
+  "head_dim": 64,
+  "ff_hidden": 1728,
+  "seq": 192
+}
